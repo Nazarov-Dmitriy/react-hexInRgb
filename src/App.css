@@ -1,0 +1,30 @@
+.form {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  padding: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 300px;
+
+
+}
+
+input {
+  vertical-align: middle;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-left: 39%;
+  width: 21%;
+  height: 15px;
+}
+
+p {
+  padding: 7px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  border: 2px solid black;
+  width: 21%;
+}
